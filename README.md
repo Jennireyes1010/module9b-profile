@@ -14,4 +14,4 @@ I wasn't inputting the name in the right line of code. I fixed it by figuring ou
 was when I pushed the git and my local host stopped loading. 
 
 ## Screenshot
-Include a screenshot of your component.
+![Screenshot](./screenshot002.png)
